@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Alex Mathew, otherwise known as Tinkerer. I live in Mumbai in the western coast of India.
+I'm Alex Mathew. I live in Mumbai in the western coast of India.
 
 - 📚 I’m currently pursuing my masters in Geoinformatics from CSRE, IIT Bombay
 - 💻 I’m currently working with geospatial webservices, deep learning for image processing and software solutions for IoT
