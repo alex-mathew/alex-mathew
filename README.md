@@ -1,8 +1,8 @@
-### Hi there 👋
-I'm Alex Mathew. I live in Kerala in the western coast of India.
-
-- 📚 I’m currently working as a data science engineer in Rakuten Mobile, Tokyo
-- 💻 In my free time, I tinker with IoT, TinyML, RESTful APIs, etc
+Lately I'm into:
+- geospatial tech
+- python internals
+- lisp(s)
+- category theory
 
 
 ### Catch me on:  
